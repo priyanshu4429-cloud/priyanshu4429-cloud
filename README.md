@@ -4,6 +4,10 @@
 
 ### 🚀 AI Product Builder | Full-Stack Developer | Vibe Coder
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Product+Builder+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Building+AI-Powered+Products+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1" />
+</p>
+
 I turn ideas into **real, usable products** with AI, automation and modern web technologies.
 
 <br/>

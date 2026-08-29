@@ -1,5 +1,14 @@
 <div align="center">
 
+<img src="./priyanshugit.png" width="100%">
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 # 👋 Hey, I'm Priyanshu Kumar
 
 ### 🚀 AI Product Builder | Full-Stack Developer | Vibe Coder
